@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビターハニー",
+  "base_artist": "EVE OF THE LAIN",
+  "createdAt": "2025-12-02T06:47:30.197863Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビターハニー",
+      "artist": "EVE OF THE LAIN",
+      "has_synced": false,
+      "path": "select/pl_01_ビターハニー_EVE_OF_THE_LAIN.txt"
+    }
+  ]
+}
